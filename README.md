@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juliopereirappw
+- 👋 Hi, I’m @juliopereirappw (Julio Pereira, MSc, PMP, ITIL, Mgmt3.0, Kanban)
 - 👀 I’m interested in new technologies to improve the people's life 
 - 🌱 I’m currently learning Laravel, vue.js, Java and Angular
 - 💞️ I’m looking to collaborate on projects that involves AI, ML and neural networks
